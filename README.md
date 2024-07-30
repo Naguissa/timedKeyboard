@@ -1,5 +1,7 @@
 This sketch enables USB keyboard mode and sends a message every X seconds.
 
+I've used this to send a keystroke from time to time to avoid online apps/games timeouts.
+
 Change MESSAGE_TO_SEND define to set the message (keystrokes)
 Change TIME_BETWEEN define in order to select seconds between repetitions.
 
