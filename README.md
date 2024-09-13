@@ -11,6 +11,12 @@ Dependencies:
  - DigiKeyboard - https://github.com/digistump/DigistumpArduino - Available on Arduino after installing Digistump Attiny core
 
 
+Currently tested devices:
+ - SAMD21 mini board: https://www.foroelectro.net/arduino/link/samd21-mini
+ - DigiSpark ATTiny85 board - https://www.foroelectro.net/arduino/link/attiny-85
+ - Arduino Due (native port) - https://www.foroelectro.net/arduino/link/arduino-due-r3
+
+
 Directly compatible boards (others may need extra hardware):
  - Arduino Micro
  - Arduino Leonardo

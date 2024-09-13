@@ -49,6 +49,7 @@
 #endif
 
  
+#include <Arduino.h>
 #ifdef ATTINY
     #include "DigiKeyboard.h"
 #else
